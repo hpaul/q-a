@@ -2,3 +2,4 @@
 /app/webroot/img/thumbs/*
 /app/webroot/img/uploads/users/*
 /app/config/database.php
+/app/config/coordino_config.php
