@@ -14,6 +14,9 @@ Unzip the Coordino package your root working www directory.
 	
 Then open your web browser and proceed to http://test.com to complete instillation.
 
+For cake/internal configs (recaptcha keys and performance tweaks) check the 
+`coordino_config.php` inside the `config` directory.
+
 For nginx, you can add the following `try_files` directive inside your `server` config:
 
 ```htaccess
