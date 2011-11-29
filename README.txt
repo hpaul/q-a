@@ -14,6 +14,14 @@ Unzip the Coordino package your root working www directory.
 	
 Then open your web browser and proceed to http://test.com to complete instillation.
 
+For nginx, you can add the following `try_files` directive inside your `server` config:
+
+```htaccess
+location / {
+	try_files $uri $uri/ /index.php;
+}
+```
+
 ==================================
 Widget Tokens
 ==================================
