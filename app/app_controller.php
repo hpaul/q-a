@@ -41,7 +41,7 @@ class AppController extends Controller {
 		 * reCAPTCHA API Information
 		 */
 		$this->Recaptcha->publickey =  Configure::read('recaptcha.publickey');
-	    $this->Recaptcha->privatekey = Configure::read('recaptcha.privatekey');
+	  $this->Recaptcha->privatekey = Configure::read('recaptcha.privatekey');
 	}
 
 	public function getWidgets($page='') {
