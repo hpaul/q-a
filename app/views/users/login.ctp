@@ -1,12 +1,12 @@
 <p>
-	You are currently an anonymous user. Login below to sign into your account.
+	<?php __('You are currently an anonymous user. Login below to sign into your account.') ?>
 </p>
 <p>
-	Want to get an account? 
+	<?php __('Want to get an account?') ?>
 	<?=$html->link(
-			'Register',
-			array('controller' => 'users', 'action' => 'register')
-		);
+	  		__('Register'),
+	  		array('controller' => 'users', 'action' => 'register')
+	  	);
 	?>	
 </p>
 <div id="login_panel" class="block_label">
@@ -19,5 +19,5 @@
 ?>
 </div>
 <p>
-	Forget your password?  Click <a href="/lost_password">here</a>.
+	<?php __('Forget your password? Click <a href="/lost_password">here</a>') ?>.
 </p>

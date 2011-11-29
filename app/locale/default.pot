@@ -1,0 +1,64 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-11-29 20:49+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /views/pages/about.ctp:1
+msgid "About Coordino"
+msgstr ""
+
+#: /views/pages/about.ctp:2
+msgid "Coordino is a Question and Answer site that is free to use. You may come here to ask a question, put a solution to a problem someone has, or just browse around for a topic that may interest you."
+msgstr ""
+
+#: /views/pages/about.ctp:4
+msgid "The best part is that it is run by the community (a.k.a. You!). You have full control of the questions and answers on this site. With your expertise you can help others and grow a community."
+msgstr ""
+
+#: /views/pages/about.ctp:6
+msgid "So what are you waiting for? Why not answer some questions <a href=\"/\">here</a> or ask a question <a href=\"/questions/ask\">here</a>?"
+msgstr ""
+
+#: /views/pages/help.ctp:1
+msgid "Need help?"
+msgstr ""
+
+#: /views/pages/help.ctp:4
+msgid "\n  If you're having trouble getting around the site, \n  or you see any type of error or room for improvement, \n  please let Meezik&copy; know.\n"
+msgstr ""
+
+#: /views/pages/help.ctp:12
+msgid "You can contact us by emailing me, <a href=\"%s\">Sam</a> with your questions and comments."
+msgstr ""
+
+#: /views/users/login.ctp:2
+msgid "You are currently an anonymous user. Login below to sign into your account."
+msgstr ""
+
+#: /views/users/login.ctp:5
+msgid "Want to get an account?"
+msgstr ""
+
+#: /views/users/login.ctp:7
+msgid "Register"
+msgstr ""
+
+#: /views/users/login.ctp:22
+msgid "Forget your password? Click <a href=\"/lost_password\">here</a>"
+msgstr ""
+
+#: /webroot/test.php:99
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
